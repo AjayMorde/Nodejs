@@ -1,0 +1,31 @@
+[
+    {
+        "id": "0.3111992150950429",
+        "title": "New model Shoes",
+        "imageUrl": "https://m.media-amazon.com/images/I/61yRiyN99ZL._UY625_.jpg",
+        "description": "Good Shoes",
+        "price": "4"
+    },
+    {
+        "id": "0.43152023957328534",
+        "title": "Laptop Bag",
+        "imageUrl": "https://m.media-amazon.com/images/I/71WcpwMSqPL._SY355_.jpg",
+        "description": "Bennett™ Mystic Unisex Adult Men's Laptop Bag 15.6 inch Side Shoulder Briefcase Satchel Messenger Business Bags for Men & Women Front Pocket for Laptop Accessories - Black (6 Month Warranty)",
+        "price": "10"
+    },
+    {
+        "id": "0.8090386760863091",
+        "title": "HP Laptop",
+        "imageUrl": "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MjM5MDMzfGltYWdlL3BuZ3xoY2QvaGVlLzE2NTU5OTg2MDgxODIyLnBuZ3wxZTZiZDRhZjIwOTBlNGNmN2MwNzA4NDU0ZmQ4ZDZjZTc5YzA1YWU4MWMwNTQwMTA2MzMyNThiY2ZlMWFlMmIx",
+        "description": "3th Generation Intel® Core™ i7 processor\r\nWindows 11 Pro\r\n35.6 cm (14) diagonal WUXGA display with Intel® Iris® Xᵉ Graphics\r\n16 GB DDR5-5200 MHz RAM (2 x 8 GB)\r\n512 GB PCIe® NVMe™ SSD Hard Drive\r\n5MP Camera, HP Wolf Security, B&O Speakers, Fingerprint Sensor, Spill-Resistant & Backlit Keyboard",
+        "price": "600"
+    },
+   
+    {
+        "id": "0.6216663763223407",
+        "title": "Caps",
+        "imageUrl": "https://m.media-amazon.com/images/I/51JunwDPAzL._AC_UX522_.jpg",
+        "description": "New Era Los Angeles Dodgers Adjustable 9Fifty MLB Straight Brim Baseball Cap 950",
+        "price": "12"
+    }
+]
